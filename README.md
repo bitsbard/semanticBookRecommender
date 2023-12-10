@@ -1,9 +1,9 @@
 # **Book Recommendations with Text Vectorization and Cosine Similarity**
 
-**Project Overview:**
+### **Project Overview:**
 Using a comprehensive dataset sourced from Goodreads, a popular book review and recommendation platform, my goal is to build a system that can recommend books based on user preferences. My work begins with meticulous data setup and exploratory analysis, utilizing tools like Pandas for data manipulation, NumPy for numerical operations, and Matplotlib for visualizing data insights. By integrating with Google Colab and Google Drive, I ensure seamless data access and manipulation. The initial phase of my project involves loading, cleaning, and conducting a preliminary analysis of the dataset, focusing on key features such as book ratings, page counts, and language distributions. This foundational work sets the stage for the subsequent, more intricate phases of feature engineering, similarity computation, and recommendation generation.
 
-**Technical Details:**
+### **Technical Details:**
 **I. Data Setup and Exploratory Analysis**
 - **Environment Setup**
   - Import essential libraries: pandas, numpy, matplotlib, Google Colab drive.
@@ -45,5 +45,5 @@ Using a comprehensive dataset sourced from Goodreads, a popular book review and 
   - Use the recommendation function to suggest related books.
   - Print recommended books in an organized format.
 
-**Conclusion:**
+### **Conclusion:**
 Through data preprocessing, feature engineering, and the use of advanced algorithms like TF-IDF vectorization and cosine similarity, I have successfully developed a system capable of recommending books based on user input. The incorporation of fuzzy matching enhances the system's robustness, allowing for more accurate recommendations even with imprecise user inputs. The evaluation of the model's performance through metrics like Normalized Discounted Cumulative Gain (NDCG) provides a quantitative measure of its effectiveness. This project not only showcases the versatility of Python and its libraries in handling complex datasets but also offers a valuable tool for book enthusiasts and readers seeking personalized book suggestions.
