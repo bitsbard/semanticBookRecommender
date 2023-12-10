@@ -1,4 +1,4 @@
-**Exploring Book Recommendations with Text Vectorization and Cosine Similarity**
+# **Exploring Book Recommendations with Text Vectorization and Cosine Similarity**
 
 **I. Data Setup and Exploratory Analysis**
 - **Environment Setup**
